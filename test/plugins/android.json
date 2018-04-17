@@ -1,0 +1,15 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.admob.plugin": {
+      "PACKAGE_NAME": "com.rjfun.test"
+    }
+  },
+  "dependent_plugins": {}
+}
